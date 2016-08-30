@@ -1,3 +1,3 @@
 # LightsOut
 Author: Bradley Marques
-Access this repo at: bradleyGamiMarques/LightsOut
+Access this repo at: www.github.com/bradleyGamiMarques/LightsOut
