@@ -1,5 +1,5 @@
-M:\LightsOut\LightsOut\bin\Debug\LightsOut.exe
 M:\LightsOut\LightsOut\bin\Debug\LightsOut.exe.config
+M:\LightsOut\LightsOut\bin\Debug\LightsOut.exe
 M:\LightsOut\LightsOut\bin\Debug\LightsOut.pdb
 M:\LightsOut\LightsOut\obj\Debug\LightsOut.AboutForm.resources
 M:\LightsOut\LightsOut\obj\Debug\LightsOut.MainForm.resources
@@ -7,4 +7,3 @@ M:\LightsOut\LightsOut\obj\Debug\LightsOut.Properties.Resources.resources
 M:\LightsOut\LightsOut\obj\Debug\LightsOut.csproj.GenerateResource.Cache
 M:\LightsOut\LightsOut\obj\Debug\LightsOut.exe
 M:\LightsOut\LightsOut\obj\Debug\LightsOut.pdb
-M:\LightsOut\LightsOut\obj\Debug\LightsOut.csprojResolveAssemblyReference.cache
